@@ -10,7 +10,7 @@ const Footer = () => {
         <p>
           Built by{' '}
           <a
-            href={`https://twitter.com/codeg0d`}
+            href={`https://twitter.com/terieyenike`}
             className='link black hover-bg-light-blue b'>
             {author}
           </a>
